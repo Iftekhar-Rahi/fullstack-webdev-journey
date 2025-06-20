@@ -3,7 +3,7 @@ My journey of learning full-stack web development with the MERN stack — from f
 
 # Delta Full Stack MERN Course 🚀
 
-This repository contains notes, code, and projects created while following the [Delta Full Stack Web Development]([https://www.apnacollege.in/delta](https://www.apnacollege.in/course/delta-7)) course by Apna College.
+This repository contains notes, code, and projects created while following the [Delta Full Stack Web Development][https://www.apnacollege.in/course/delta-7]) course by Apna College.
 
 ## 🧠 What You'll Find Here
 
