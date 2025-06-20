@@ -1,6 +1,3 @@
-# fullstack-webdev-journey
-My journey of learning full-stack web development with the MERN stack — from frontend basics to backend development and full-stack projects. This repository includes all notes, code, and projects built during the learning process.
-
 # Delta Full Stack MERN Course 🚀
 
 This repository contains notes, code, and projects created while following the [Delta Full Stack Web Development](https://www.apnacollege.in/course/delta-7) course by Apna College.
